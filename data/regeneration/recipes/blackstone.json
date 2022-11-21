@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"A#",
+		"#A"
+	],
+	"key": {
+		"A":{
+			"item": "minecraft:cobblestone"
+		},
+		"#":{
+			"item": "minecraft:flint"
+		}
+	},
+	"result": {
+		"item": "minecraft:blackstone",
+		"count": 4
+	}
+}

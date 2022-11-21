@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "minecraft:obsidian"
+	},
+	"result": "minecraft:dragon_egg",
+	"experience": 10,
+    "cookingtime": 1728000
+}

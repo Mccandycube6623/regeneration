@@ -1,0 +1,19 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"A#",
+		"#A"
+	],
+	"key": {
+		"A":{
+			"item": "minecraft:cobblestone"
+		},
+		"#":{
+			"item": "minecraft:diorite"
+		}
+	},
+	"result": {
+		"item": "minecraft:calcite",
+		"count": 4
+	}
+}

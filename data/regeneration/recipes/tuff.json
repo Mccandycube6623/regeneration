@@ -1,0 +1,21 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "minecraft:cobblestone"
+		},
+		{
+			"item": "minecraft:blackstone"
+		},
+		{
+			"item": "minecraft:diorite"
+		},
+		{
+			"item": "minecraft:cobbled_deepslate"
+		}
+	],
+	"result": {
+		"item": "minecraft:tuff",
+		"count": 4
+	}
+}

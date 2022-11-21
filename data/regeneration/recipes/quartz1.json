@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "minecraft:bone_meal"
+	},
+	"result": "minecraft:quartz",
+	"experience": 10,
+    "cookingtime": 400
+}
